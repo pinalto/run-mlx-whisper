@@ -1,0 +1,3 @@
+例えば
+https://huggingface.co/mlx-community/whisper-large-v3-turbo/tree/main
+からmodel（config.jsonと〜.safetensors）をダウンロードしてこのフォルダに入れる。

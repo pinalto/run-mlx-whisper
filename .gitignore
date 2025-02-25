@@ -1,0 +1,4 @@
+._*
+
+model/*.safetensors
+model/*.json
