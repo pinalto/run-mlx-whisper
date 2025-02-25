@@ -1,3 +1,11 @@
+## 準備
+1. Download model files into /model
+2.
+```sh
+$ brew install pipenv
+$ pip install mlx_whisper
+```
+
 ## 使い方
 
 ```sh
