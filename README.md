@@ -3,7 +3,7 @@
 2.
 ```sh
 $ brew install pipenv
-$ pip install mlx_whisper
+$ pipenv install mlx_whisper
 ```
 
 ## 使い方
